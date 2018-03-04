@@ -1,0 +1,8 @@
+com\howtographql\hackernews\User.class
+com\howtographql\hackernews\UserRepository.class
+com\howtographql\hackernews\AuthData.class
+com\howtographql\hackernews\AuthContext.class
+com\howtographql\hackernews\SigninPayload.class
+com\howtographql\hackernews\LinkResolver.class
+com\howtographql\hackernews\SigninResolver.class
+com\howtographql\hackernews\LinkRepository.class
