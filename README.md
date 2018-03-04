@@ -1,0 +1,4 @@
+# myOwnJavaGraphqlStarterKit
+# myOwnJavaGraphqlStarterKit
+# myOwnJavaGraphqlStarterKit
+# myOwnJavaGraphqlStarterKit
